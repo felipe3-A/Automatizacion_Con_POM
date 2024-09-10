@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="About layouts" skipped="0" tests="1" time="9.66" timestamp="2024-08-30 03:40:34"><testcase name="Part one the About"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+co.com.Aplication.StepsDefinitions.AboutStepsDefinition.theUserGoToLayoutAbout(AboutStepsDefinition.java:11)&#13;
+✽.the user go to layout About(file:///C:/Users/FabricaSoftware/IdeaProjects/Proyecto_POM/src/test/resources/features/about.feature:8)&#13;
+</system-err></testcase></testsuite>

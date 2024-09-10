@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Buy products","Buy Product","SUCCESS","2024-08-30T15:03:48.562-05:00[America/Bogota]","0.0","16.23"
+"Buy products","Delete Product","SUCCESS","2024-08-30T15:04:06.012-05:00[America/Bogota]","0.0","15.1"
+"Buy products","See Product","SUCCESS","2024-08-30T15:04:21.881-05:00[America/Bogota]","0.0","8.35"
+"Buy products","Register Incomplete","SUCCESS","2024-08-30T15:04:31.024-05:00[America/Bogota]","0.0","8.09"
